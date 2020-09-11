@@ -1,0 +1,30 @@
+# NUCS 331 - Prequisities
+
+Computational Photography is an exciting field of study, and it is used in many different applications from medicine and industry through research. However, Computational Photography is also a somewhat complicated subject, especially when you study it the first time.
+
+CS-331, as taught at Northwestern, will introduce you to basics through a series of lectures accompanied by a (bi-)weekly Python assignments where you have to implement typical computational photography algorithms.
+
+# Python Programming
+## Introduction to Python
+1. Nice Documentation that shows you the essentials: https://www.w3schools.com/python/default.asp
+2. Interactive tutorial in browser:  https://www.learnpython.org/
+## Introduction to Jupyter
+Jupyter Notebooks have emerged to be an essential tool for many data scientists and researchers. We recommend using Jupyter to test out small snippets of codes, etc., but theoretically, you could do most of your homework purely withing Jupyter. 
+1. https://realpython.com/jupyter-notebook-introduction/
+2. Video Tutorial: https://www.youtube.com/playlist?list=PL1m-6MPBNAZfF-El7BzqaOrCrTBRgH1Nk
+## Introduction to Matplotlib
+1. https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39?gi=ace0e0ad3152
+2. https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html
+3. https://towardsdatascience.com/introduction-to-matplotlib-in-python-5f5a9919991f
+
+## Introduction to Numpy and Vector Math
+Numpy will be there core package that you use in the NUCS331. We will implement most of our algorithms using numpy functionality only. 
+1. https://www.analyticsvidhya.com/blog/2017/05/comprehensive-guide-to-linear-algebra/
+2. https://www.geeksforgeeks.org/numpy-linear-algebra/
+
+## Vectorizing For-Loops with Numpy
+Many of the algorithms implemented in this course will run slowly if implemented using only "for-loops." I understand that coming from a Java/C++ background, avoiding for-loops might be a bit counter-intuitive. Still, it's an essential part of data-science prototyping with Python (and even more critical in Matlab). I recommend you to use Matrix algebra WHENEVER possible because it speeds up your code tremendously! Please find some resources here:
+1. https://realpython.com/numpy-array-programming/
+2. https://towardsdatascience.com/data-science-with-python-turn-your-conditional-loops-to-numpy-vectors-9484ff9c622e
+3. https://hackernoon.com/speeding-up-your-code-2-vectorizing-the-loops-with-numpy-e380e939bed3
+-need-to-know-about-tree-data-structures-bceacb85490c/
